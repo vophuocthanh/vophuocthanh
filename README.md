@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vo Phuoc Thanh 🚀️</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">
+My goal is to become a developer</h3>
 </p>
 
 ## 📫 About contact me:
