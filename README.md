@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vo Phuoc Thanh 🚀️</h1>
 <p align="center">
   <h3 align="center">
-My goal is to become a developer</h3>
+My goal is to become a Frontend Developer</h3>
 </p>
 
 ## 📫 About me:
