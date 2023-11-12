@@ -93,11 +93,8 @@
       height="60"
     />
   </a>
-
-  <!-- Add more language icons here -->
 </p>
 
-<!-- Frameworks -->
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -132,6 +129,9 @@
       height="60"
     />
   </a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+   </a>
   <!-- Add more framework icons here -->
 </p>
 
@@ -202,7 +202,7 @@
 
 <h3 align="left">Other:</h3>
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
 </p>
 
 
