@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **GDSC - DUT**
 
-- 🌱 I’m currently learning **NextJS, Nest.**
+- 🌱 I’m currently learning **NextJS, NestJS.**
 
 - 👨‍💻 All of my projects are available at [https://profile-eta-two.vercel.app/](https://profile-eta-two.vercel.app/)
 
