@@ -14,8 +14,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/thanh.vophuoc.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanh.vophuoc.50" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/phuocthanh2k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phuocthanh2k03" height="30" width="40" /></a>
+<a href="https://fb.com/thanh.vophuoc.50" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanh.vophuoc.50" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/phuocthanh2k03" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phuocthanh2k03" height="30" width="40" />
+</a>
+  <a href="https://twitter.com/ThanhVP03" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="vophuocthanh"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.linkedin.com/in/v%C3%B5-ph%C6%B0%E1%BB%9Bc-th%E1%BA%A1nh-747813233/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="vophuocthanh"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <!-- Languages -->
