@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS, NestJS.**
 
-- 👨‍💻 All of my projects are available at <a href="https://profile-eta-two.vercel.app/" target="blank">https://profile-eta-two.vercel.app/</a>
+- 👨‍💻 All of my projects are available at <a href="https://profile-eta-two.vercel.app" target="blank">https://profile-eta-two.vercel.app</a>
 
 - 📫 How to reach me **phuocthanh2k03@gmail.com**
 
