@@ -4,7 +4,7 @@
 
 - 🚀 Currently, I am constantly learning, improving my skills, learning new technologies of a Frontend Developer.
 
-- 🔭 I’m currently working at **Mind Smart AiOT** this position Software Engineer
+- 🔭 I’m currently working at **MIND AIoT & Smart Factory** this position Software Engineer
 
 - 🌱 I’m currently learning **NextJS, NestJS.**
 
