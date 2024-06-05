@@ -4,8 +4,6 @@
 
 - 🚀 Currently, I am constantly learning, improving my skills, learning new technologies of a Frontend Developer.
 
-- 🔭 I’m currently working at **MIND AIoT & Smart Factory** this position Software Engineer
-
 - 🌱 I’m currently learning **NextJS, NestJS.**
 
 - 👨‍💻 All of my projects are available at <a href="https://profile-eta-two.vercel.app" target="blank">https://profile-eta-two.vercel.app</a>
