@@ -4,7 +4,7 @@
 
 - 🚀 Currently, I am constantly learning, improving my skills, learning new technologies of a Frontend Developer.
 
-- 🌱 I’m currently learning **NextJS, NestJS.**
+- 🌱 I’m currently learning **NextJS, NestJS, AWS, Web3.**
 
 - 👨‍💻 All of my projects are available at <a href="https://profile-eta-two.vercel.app" target="blank">https://profile-eta-two.vercel.app</a>
 
