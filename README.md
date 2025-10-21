@@ -1,29 +1,35 @@
 <div align="center">
+
 <img 
   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
   alt="Coding animation" 
-  width="400" 
-  style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); margin-bottom: 20px;"
+  width="380" 
+  style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); margin-bottom: 20px;"
 />
+
 </div>
 
-Welcome to my GitHub corner! I'm a <span style="font-weight: 700">Fullstack Developer</span> and a big enthusiast of new technologies. Currently, I'm working at <span style="font-weight: 700">Dipro Tech</span>, where I contribute to building and improving the company's digital products.
+Welcome to my GitHub corner! I'm a **Fullstack Developer** and a big enthusiast of new technologies. Currently, I'm working at **Dipro Tech**, where I contribute to building and improving the company's digital products. I’m passionate about creating efficient, user-friendly applications and continuously learning new tools to enhance development workflows.
 
 ## 🚀 About Me
 
-- 🎓 Graduated in Software Technology from <span style="font-weight: 700">Duy Tan University.</span>
-- 👨‍💻 Almost 2 years of experience as a developer, working with technologies like React.js, Next.js, TypeScript, Angular.
-- 📊 Currently focused on learning more about <span style="font-weight: 700">Fullstack Developer</span>
+- 🎓 Graduated in **Software Technology** from **Duy Tan University**.
+- 👨‍💻 Almost **2 years of experience** as a developer, working with technologies like **React.js**, **Next.js**, **TypeScript**, and **Angular**.
+- 📊 Currently focused on learning more about **Fullstack Development**.
 
-## 🚀 I'm Working On
+## 🛠️ I'm Working On
 
-- 🧱 **Stack**: ReactJS · NextJS · NestJS · TypeScript · Javascript · Angular
+- 🧱 **Stack**: ReactJS · NextJS · NestJS · TypeScript · JavaScript · Angular
 - 📦 **Dev Tools**: Docker · GitHub Actions · PostgreSQL · AWS
-- 🌱 **Currently Exploring**: SEO Optimization, Optimize Performance
+- 🌱 **Currently Exploring**: SEO Optimization · Performance Optimization
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vophuocthanh&layout=compact&theme=tokyonight&hide_border=true)
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophuocthanh&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Top Langs"
+  style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); margin-bottom: 15px;"
+/>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,nest,docker,aws,angular,postgresql)](https://skillicons.dev)
 
