@@ -1,41 +1,36 @@
-# 👨‍💻 Hi there, I'm Võ Phước Thạnh
+<div align="center">
+<img 
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+  alt="Coding animation" 
+  width="400" 
+  style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); margin-bottom: 20px;"
+/>
+</div>
 
-I'm a passionate **Software Engineer** with experience in building **Fullstack** applications using modern JavaScript frameworks and technologies.
+Welcome to my GitHub corner! I'm a <span style="font-weight: 700">Fullstack Developer</span> and a big enthusiast of new technologies. Currently, I'm working at <span style="font-weight: 700">Dipro Tech</span>, where I contribute to building and improving the company's digital products.
 
-## 🔍 Overview
+## 🚀 About Me
 
-I enjoy tackling complex problems and turning them into simple, elegant solutions. With a strong foundation in both frontend and backend technologies, I create seamless user experiences while ensuring robust, maintainable codebases. I'm constantly learning and adapting to new technologies to stay at the forefront of web development.
+- 🎓 Graduated in Software Technology from <span style="font-weight: 700">Duy Tan University.</span>
+- 👨‍💻 Almost 2 years of experience as a developer, working with technologies like React.js, Next.js, TypeScript, Angular.
+- 📊 Currently focused on learning more about <span style="font-weight: 700">Fullstack Developer</span>
 
-## 🚀 What I'm Working On
+## 🚀 I'm Working On
 
-- 🧱 **Stack**: ReactJS · NextJS · NestJS · TypeScript · Javascript
+- 🧱 **Stack**: ReactJS · NextJS · NestJS · TypeScript · Javascript · Angular
 - 📦 **Dev Tools**: Docker · GitHub Actions · PostgreSQL · AWS
-- 🌱 **Currently Exploring**: SEO Optimization
+- 🌱 **Currently Exploring**: SEO Optimization, Optimize Performance
 
-## 🧰 Tech Stack
+<div align="center">
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-
-## 📈 GitHub Stats
-
-![Thạnh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vophuocthanh&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vophuocthanh&layout=compact&theme=tokyonight&hide_border=true)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,nest,docker,aws,angular,postgresql)](https://skillicons.dev)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-## 📫 Connect with Me
-
-- 🌐 Website: [phuoc-thanh.vercel.app](https://phuoc-thanh.vercel.app)
-- 👔 LinkedIn: [linkedin.com/in/thanhdev](https://linkedin.com/in/thanhdev)
-- 🐤 Twitter: [twitter.com/ThanhVP03](https://twitter.com/ThanhVP03)
-- 🧩 LeetCode: [leetcode.com/phuocthanh2k03](https://leetcode.com/phuocthanh2k03)
