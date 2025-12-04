@@ -4,7 +4,12 @@ on:
   # Chạy workflow mỗi ngày lúc 13:30 giờ Việt Nam (06:30 UTC)
   schedule:
     - cron: '30 6 * * *'
+  # Cho phép chạy thủ công
   workflow_dispatch:
+  # Trigger khi push để test
+  push:
+    branches:
+      - main
 
 jobs:
   daily-commit:
