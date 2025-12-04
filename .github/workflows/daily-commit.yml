@@ -1,12 +1,10 @@
 name: Daily Commit
 
 on:
-  # Chạy workflow mỗi ngày lúc 13:30 giờ Việt Nam (06:30 UTC)
+  # Chạy workflow mỗi ngày lúc 7h giờ Việt Nam (00:00 UTC)
   schedule:
-    - cron: '30 6 * * *'
-  # Cho phép chạy thủ công
+    - cron: '0 0 * * *'
   workflow_dispatch:
-  # Trigger khi push để test
   push:
     branches:
       - main
