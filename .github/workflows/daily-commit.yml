@@ -1,0 +1,44 @@
+name: Daily Commit
+
+on:
+  # Chạy workflow mỗi ngày lúc 13:30 giờ Việt Nam (06:30 UTC)
+  schedule:
+    - cron: '30 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Update daily commit file
+        run: |
+          # Tạo hoặc cập nhật file với timestamp hiện tại
+          echo "# Daily Commit Log" > daily-commits.md
+          echo "" >> daily-commits.md
+          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> daily-commits.md
+          echo "" >> daily-commits.md
+          echo "This file is automatically updated daily to maintain GitHub contributions." >> daily-commits.md
+
+      - name: Commit changes
+        run: |
+          git add daily-commits.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "✨ daily update"
+            git push
+          fi
