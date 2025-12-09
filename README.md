@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+  src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" 
   alt="Coding animation" 
   width="600" 
   style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); margin-bottom: 20px;"
@@ -25,11 +25,11 @@ Welcome to my GitHub corner! I'm a **Fullstack Developer** and a big enthusiast 
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophuocthanh&layout=compact&theme=tokyonight&hide_border=true" 
+<!-- <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophuocthanh&layout=compact&theme=tokyonight&hide_border=true"
   alt="Top Langs"
   style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); margin-bottom: 15px;"
-/>
+/> -->
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,nest,docker,aws,angular,postgresql)](https://skillicons.dev)
 
