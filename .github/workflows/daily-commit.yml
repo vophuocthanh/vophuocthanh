@@ -1,14 +1,16 @@
 name: Daily Commit
 
 on:
-  # Chạy mỗi ngày lúc 07:00 giờ Việt Nam (00:00 UTC)
+  # Chạy mỗi ngày lúc 08:00 giờ Việt Nam (01:00 UTC)
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
   daily-commit:
-    concurrency: daily-commit
+    concurrency:
+      group: daily-commit
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
@@ -19,12 +21,18 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN || github.token }}
 
       - name: Configure Git
         run: |
-          git config --local user.email "${{ secrets.GIT_EMAIL }}"
-          git config --local user.name "${{ secrets.GIT_NAME }}"
+          git config --local user.email "${{ secrets.GIT_EMAIL || 'action@github.com' }}"
+          git config --local user.name "${{ secrets.GIT_NAME || 'GitHub Action' }}"
+
+      - name: Debug info
+        run: |
+          echo "Current time: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "Git user: $(git config user.name)"
+          echo "Git email: $(git config user.email)"
 
       - name: Update daily commit file
         run: |
@@ -39,8 +47,13 @@ jobs:
         run: |
           git add daily-commits.md
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "⚠️ No changes to commit (file content might be the same)"
+            exit 0
           else
+            echo "✅ Changes detected, committing..."
             git commit -m "✨ daily update"
+            echo "✅ Committed successfully"
             git push
+            echo "✅ Pushed successfully"
           fi
+        continue-on-error: false
