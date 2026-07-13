@@ -14,7 +14,7 @@ Welcome to my GitHub corner! I'm a **Fullstack Developer** and a big enthusiast 
 ## 🚀 About Me
 
 - 🎓 Graduated in **Software Technology** from **Duy Tan University**.
-- 👨‍💻 Almost **2 years of experience** as a developer, working with technologies like **React.js**, **Next.js**, **TypeScript**, and **Angular**.
+- 👨‍💻 Almost **3 years of experience** as a developer, working with technologies like **React.js**, **Next.js**, **TypeScript**, and **Angular**.
 - 📊 Currently focused on learning more about **Fullstack Development**.
 
 ## 🛠️ I'm Working On
